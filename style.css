@@ -1,0 +1,68 @@
+ 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 10;
+  overflow: hidden;
+  background-color: saddlebrown;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: cadetblue;
+}
+
+body {
+  background-color:cadetblue;
+}
+
+img {
+  float: right;
+  width: 250px;
+  margin: 10px;
+  border-color: saddlebrown;
+  border-width: 4px;
+  border-style: solid;
+  border-radius: 10px;
+}
+
+p {
+
+  text-align: left;
+  font-family: cursive;
+  font-size: 14px;
+}
+
+
+h1 {
+  color: black;
+  font-size: px;
+  font-family: a;
+}
+
+h2 {
+  color: black;
+  font-size: px;
+}
+
+p {
+  color: black;
+  font-size: px;
+  font-family: cursive;
+}
+
+table, th, td {
+  border:1px solid black;
+}
